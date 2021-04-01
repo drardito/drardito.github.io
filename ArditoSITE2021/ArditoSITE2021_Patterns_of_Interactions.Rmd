@@ -10,6 +10,10 @@ output:
     center: true
     transition: concave
 ---
+## Test Slide
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/codebookrevised.png.png")
+```
 
 ## Conceptual Framework
 
@@ -39,31 +43,45 @@ output:
 
 ## Data Analysis, part 2
 
-![](img/codebookrevised.png.png)
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/codebookrevised.png.png")
+```
 
 ## Findings - SNA, part 1
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/pc_spring2016_a_reflection_info_fr_png.png")
+```
 
-![](img/pc_spring2016_a_reflection_info_fr_png.png)
+
 
 ## Findings - SNA, part 2
 
-![](img/read-respond_icfr.png.png)
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/read-respond_icfr.png.png")
+```
 
 ## Findings - SNA, part 3
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/robot-building-coding_icfr_final.png.png")
+```
 
-![](img/robot-building-coding_icfr_final.png.png)
+
 
 ## Findings - ENA, part 1
-
-![](img/reflection-ena.png.png)
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/reflection-ena.png.png")
+```
 
 ## Findings - ENA, part 2
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/read-respondena.png.png")
+```
 
-![](img/read-respondena.png.png)
 
 ## Findings - ENA, part 3
-
-![](img/codingena.png.png)
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/codingena.png.png")
+```
 
 
 ## Discussion - What Did We Learn?
