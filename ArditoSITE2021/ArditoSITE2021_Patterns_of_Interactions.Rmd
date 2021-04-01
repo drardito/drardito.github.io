@@ -10,14 +10,12 @@ output:
     center: true
     transition: concave
 ---
-## Test Slide
-```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
-knitr::include_graphics("img/codebookrevised.png.png")
-```
 
 ## Conceptual Framework
 
-![](img/site-2021-concept-model.png.png)
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/site-2021-concept-model.png.png")
+```
 
 ## Research Questions
    
