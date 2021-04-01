@@ -41,7 +41,7 @@ knitr::include_graphics("img/site-2021-concept-model.png.png")
 
 ## Data Analysis, part 2/Codebook
 
-```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "1500px", echo = FALSE, fig.align = "center"}
 knitr::include_graphics("img/codebookrevised.png.png")
 ```
 
