@@ -1,0 +1,36 @@
+---
+title: "Patterns of Interactions"
+author: "Dr. Gerald Ardito"
+date: "Manhattanville College School of Education"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
+subtitle: The Learning of Computer Science and Computational Thinking Skills in a
+  Teacher Preparation Course
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Research Questions
+
+1. What are the patterns of interactions that occur when teachers and teacher candidates are learning CT and CS skills and concepts?
+2. How are these patterns of interactions shaped by a collaborative learning environment?
+
+## Conceptual Framework
+
+! [](img/codebookrevised.png)
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
