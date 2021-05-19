@@ -1,0 +1,89 @@
+---
+title: "Thinking about Integrating Digital Literacy and Cybersecurity into Grades K-12"
+author: Dr. Gerald Ardito
+date: Associate Professor of CS Ed Manhattanville College
+
+output:
+  revealjs::revealjs_presentation:
+    theme: night
+    highlight: espresso
+    center: true
+    transition: concave
+---
+
+## Welcome/Intros
+   
+1. Your teaching - who, where, what?
+2. Your experience with and/or teaching with Computer Science/Computational Thinking?
+
+## Some Guiding Questions
+   
+1. What does it mean to integrate Computer Science and Digital Literacy Learning Standards into our work with students?
+2. How can we identify areas of intersection?
+3. What are the high level opportunities (instead of the low hanging fruit)?
+
+## The Context
+
+- 14 teachers/teacher candidates in a course entitled "CS for Teachers"
+- Conducted in a social learning platform built with Elgg software
+- Spring 2016 semester
+
+
+## The Methods
+- Students participate in the course via a series of units focused on the history of CS in K-12 schools, core research, and coding via robotics.
+- While they worked in this asynchronous course, they were able to interact with the teacher and one another.
+- Those interactions were extracted and analyzed.
+
+## Data Analysis, part 1
+- Social Network Analysis (SNA) - to visualize student networks for each learning activity
+- Every interactions was coded (codebook to follow)
+- Epistemic Network Analysis (ENA) was used to visualize the epistemic space of each learning activity.
+
+## ELA Examples
+A cool tool is [Plotting Plots](https://plottingplots.com).
+
+```{r, out.width = "1500px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("~/GitHub/drardito.github.io/PeekskilllPDMay2021/img/BlackKids.png")
+```
+
+## Findings - SNA, part 1/Reflection
+
+
+
+
+## Findings - SNA, part 2/Read-Respond
+
+
+
+## Findings - SNA, part 3/Robotics
+
+
+
+## Findings - ENA, part 1/Reflection
+
+
+## Findings - ENA, part 2/Read-Respond
+
+
+
+## Findings - ENA, part 3/Robotics
+
+
+
+## Discussion - What Did We Learn?
+- Patterns of interactions in open vs closed learning activites
+
+- Evidence of student autonomy and engagement
+
+- Future work
+
+
+
+## Questions?
+
+## Thanks
+- gerald.ardito@mville.edu
+
+- @geraldardito
+
+
