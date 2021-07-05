@@ -5,7 +5,7 @@ date: Manhattanville College/The University of Arizona
 
 output:
   revealjs::revealjs_presentation:
-    theme: night
+    theme: serif
     highlight: espresso
     center: true
     transition: concave
