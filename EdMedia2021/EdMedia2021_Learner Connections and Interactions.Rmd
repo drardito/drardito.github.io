@@ -1,6 +1,6 @@
 ---
 title: "Learner Connections and Interactions in an Open World Gaming Inspired Teacher Education Course"
-author: Dr. Gerald Ardito & Dr. Betul Czkawski
+author: Dr. Gerald Ardito & Dr. Betul Czerkawski
 date: Manhattanville College/The University of Arizona
 
 output:
@@ -32,7 +32,7 @@ knitr::include_graphics("img/edmedia-2021-concept-model.png.png")
 ## Taxonomy of Game Design Elements/Autonomy
 
 ```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
-knitr::include_graphics("img/arnab_table.png")
+knitr::include_graphics("img/arnab_table_FINAL.png")
 ```
 
 ## The Methods
