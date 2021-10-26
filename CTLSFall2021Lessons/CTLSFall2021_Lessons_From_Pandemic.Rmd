@@ -15,6 +15,17 @@ output:
 2. What can this unique time teach us about instructional design?
 3. What are the connections between instructional design, student engagement, and learning outcomes?
 
+## Prologue: Default Models - Emergency
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"} 
+knitr::include_graphics("img/ambulance.jpg")
+```
+
+## Prologue: Default Models - Face to Face Classrooms
+
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"} 
+knitr::include_graphics("img/classrooms.jpg")
+```
+
 ## Part 1: Community of Inquiry
 - The **Community of Inquiry (CoI)** framework was developed by Garrison, D. R., Anderson, T., & Archer, W. (2000).
 - The CoI framework attempted to **apply the work of Dewey and Lipman** into online learning environments, which at that time were mostly text/discussion based.
@@ -22,7 +33,7 @@ output:
 - The CoI model also applies to face to **face/synchronous learning environments**
 
 ## The Community of Inquiry Model
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"} 
+```{r, out.width = "700px", echo = FALSE, fig.align = "center"} 
 knitr::include_graphics("img/Community_of_inquiry_model.png")
 ```
 Garrison, D. R., Anderson, T., & Archer, W. (2000)
@@ -40,7 +51,7 @@ Garrison, D. R., Anderson, T., & Archer, W. (2000)
 (Garrison, 2009, p. 352).
 
 ## The Magic is in the Connections/Intersections
-```{r, out.width = "500px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 knitr::include_graphics("img/CoI_2.jpg")
 ```
 
