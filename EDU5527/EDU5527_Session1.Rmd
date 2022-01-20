@@ -1,0 +1,81 @@
+---
+title: "EDU 5527 - Teaching with Technology - Session #1"
+author: Dr. Gerald Ardito
+date: Associate Professor of CS Ed Manhattanville College
+
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    highlight: espresso
+    center: true
+    transition: concave
+---
+
+## What Are We Up To?
+
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/churchill_homes.jpg")
+```
+
+## What Are We Up To?
+
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/Mcluhan_tools.jpg")
+```
+
+## Essential Questions
+   
+1. What do we mean by technology?
+2. What do we mean by educational technologies?
+3. What do we know about using technology to enhance/promote/support learning?
+
+## A Question for you
+
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/ed_tech_tools.png")
+```
+
+## Our Tools, Moodle
+
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/moodle5527.png")
+```
+
+## Our Tools, Mattermost
+
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/mattermost5527.png")
+```
+
+## How Should We Work Together?
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/classroom.jpeg")
+```
+
+
+## How Should We Work Together?
+```{r, out.width = "450px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/icalendar.jpeg")
+```
+
+## What Should We Do?
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/syllabus.png")
+```
+
+## What Should We Do?
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/syllabus2.png")
+```
+
+## Questions?
+```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/questions.jpeg")
+```
+
+## Getting To Work
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/painting.jpeg")
+```
+
+
