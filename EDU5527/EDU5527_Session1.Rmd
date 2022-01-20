@@ -8,7 +8,8 @@ output:
     theme: serif
     highlight: espresso
     center: true
-    transition: concave
+    transition: fade
+    Reveal.initialize({ slideNumber: true });
 ---
 
 ## What Are We Up To?
