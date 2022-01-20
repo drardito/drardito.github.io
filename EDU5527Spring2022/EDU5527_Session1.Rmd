@@ -30,11 +30,19 @@ knitr::include_graphics("img/Mcluhan_tools.jpg")
 2. What do we mean by educational technologies?
 3. What do we know about using technology to enhance/promote/support learning?
 
+
 ## A Question for you
 
 ```{r, out.width = "1000px", echo = FALSE, fig.align = "center"}
 knitr::include_graphics("img/ed_tech_tools.png")
 ```
+
+## Introductions
+
+```{r, out.width = "400px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/intros.jpeg")
+```
+
 
 ## Our Tools, Moodle
 
