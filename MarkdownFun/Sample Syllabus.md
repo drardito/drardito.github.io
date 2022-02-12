@@ -62,4 +62,4 @@ Course Objectives and Standards
 | ------------- | ------------- |------------- |
 | Outcome 1:
 Manhattanville CF Standards:1c, 2a, 2b, 2e, 3a | In-class activities and discussions; journal reflections   |In-class participation, journal and field assignment rubrics
-| In-class participation, journal and field assignment rubrics  | etc,  |etc.
+| In-class participation, journal and field assignment rubrics  | Content Cell  |
