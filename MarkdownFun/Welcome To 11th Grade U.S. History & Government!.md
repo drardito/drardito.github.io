@@ -1,0 +1,12 @@
+# Welcome To 11th Grade U.S. History & Government!
+
+My name is Mr. McCooey (He/Him), but feel free to call me Mr. M. I am delighted to be your social studies teacher this school year! Education and history have always been two big passions in my life which is why I am beyond excited to be working with all of you this year! It is going to be a year of fun, learning, and lots of adventures, and I cannot wait to see all the wonderful work we are going to accomplish this year.
+
+I proudly received both my bachelor of arts in history and masters in teaching at Manhattanville College. In my free time you can find me often spending time with my nephew who I adore, my family, and my friends. I have lived in Westchester County all my life with my family. I have an older sister who works in the healthcare field and a wonderful mother who is a social worker.
+
+In the class you will need your device regularly to participate in our digital activities together and to follow along. You will need a dedicated notebook to this class as well as a pen and pencil to write with. Our first class will be spent exploring the colonial foundations in the United States which will continue throughout the first week.
+
+This will be my second year teaching in high school and prior to this I was a teacher aide in the middle school. I absolutely love teaching high school! It is my mission to instill a love for learning in my students. I attempt to teach with a passion for my subject so that my students develop a desire to become lifelong learners. I strongly believe in making sure that the needs of all my students are met fully. Please reach out to me if you have any questions or concerns to my email. It is my strong belief that it is so important to keep communication open between us and I would love to help you when you feel the need. I look forward to a wonderful year together with you all!
+# Mission Statement
+
+Students of the social studies curriculum of **Central School District** will value the political, economic, geographic and social implications of the past and will be able to analyze those influences on the present and future as they become informed and contributing citizens in a diverse global society.
