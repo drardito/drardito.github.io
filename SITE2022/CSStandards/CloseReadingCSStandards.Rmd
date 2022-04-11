@@ -13,13 +13,16 @@ output:
 
 ## Research Question
    
-1. What can a close reading of a Computer Science Learning Standards document tell us about the coherence and incoherence of these standards?
+What can a close reading of a Computer Science Learning Standards document tell us about the coherence and incoherence of these standards?
 
 ## Conceptual Framework
 ```{r, out.width = "1500px", echo = FALSE, fig.align = "center"}
 knitr::include_graphics("img/cs_stds_con-frame.png")
 ```
 
+## Document Structure
+ - Executive Summary - background, vision, guiding principles, etc.
+ - Learning Standards
 
 ## The New York State Computer Science/Digital FLuency Learning Standards
 
@@ -33,7 +36,7 @@ knitr::include_graphics("img/standards_sample.png")
 ```{r, out.width = "1500px", echo = FALSE, fig.align = "center"}
 knitr::include_graphics("img/tools.png")
 ```
-Text mining tools developed for the R programming language, and especially those in the tidytext universe were used (Silge & Robinson, 2016, 2017). 
+We used text mining tools developed for the R programming language, and especially those in the tidytext universe were used (Silge & Robinson, 2016, 2017). 
 
 
 ## Word Frequencies, part 1 - Executive Summary
@@ -42,17 +45,17 @@ Text mining tools developed for the R programming language, and especially those
 knitr::include_graphics("img/rel_word_freqencies_exec_sum.png")
 ```
 
-## Findings - Relative Word Frequencies/Executive Summary
+## Findings - Word Frequencies - Executive Summary
 
 In these word frequencies, we see what we would expect to see. In the executive summary, for example, we can see a focus on careers and career readiness in the frequency of words like *occupation*, *jobs*, and *labor*. 
 
-## Word Frequencies, part 2 - CS/DF Learning Standards
+## Word Frequencies - CS/DF Learning Standards
 
 ```{r, out.width = "1500px", echo = FALSE, fig.align = "center"}
 knitr::include_graphics("img/rel_word_freqencies_stds.png")
 ```
 
-## Findings - Relative Word Frequencies/Learning Standards
+## Findings - Word Frequencies/Learning Standards
 
 We see the same pattern in the concept areas comprising the learning standards. For example, when we look at the concept areas, such as cybersecurity and computational thinking, we see expected terms such as *safeguards*, *secure*, and *protected* and *program*, *algorithm*, and *process*. 
 
@@ -65,6 +68,21 @@ knitr::include_graphics("img/verb_usage_by_grade_band.png")
 ## Findings - Verb Usage
 
 Additionally, we found that the language of the learning standards is most frequently associated with the lower levels thinking skills, such as *identify*, *explain*, *discuss*, as developed by Bloom in his taxonomy.
+
+## Bigram Network Analysis - Executive Summary
+
+```{r, out.width = "1500px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/bigram_exec.png")
+```
+
+## Bigram Network Analysis - Executive Summary
+
+```{r, out.width = "1500px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/bigram_stds.png")
+```
+
+## Bigram Network Analyses
+These bigram network analyses further demonstrate the richness of the language in the executive summary and the narrowness in the languge of the learning standards.
 
 ## Cohence and Incoherence
 **Coherence** - We found across these two sections in the areas of scope and concept and sub- concept areas.
