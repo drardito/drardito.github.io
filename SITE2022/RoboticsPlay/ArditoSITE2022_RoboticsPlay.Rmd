@@ -11,6 +11,27 @@ output:
     transition: concave
 ---
 
+## The Project
+
+We have been investigating the development of computational thinking skills in younger middle school students.
+
+- Project 1: *Collaboration* and Robotics
+- Project 2: *Gender* and the development of CT skills
+- Project 3: Learning *abstraction*
+
+
+## Wonderings, part 1
+
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/play.png")
+```
+
+## Wonderings, part 2
+
+```{r, out.width = "800px", echo = FALSE, fig.align = "center"}
+knitr::include_graphics("img/abstraction.png")
+```
+
 ## Research Questions
    
 1. How do sixth graders write about their experiences of learning and practicing the computational thinking of abstraction during a robotics unit?
